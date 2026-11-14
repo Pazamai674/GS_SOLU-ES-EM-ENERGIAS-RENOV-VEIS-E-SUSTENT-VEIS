@@ -7,7 +7,7 @@ Fala, pessoal! Esse é o repositório do nosso grupo para a Global Solution de C
 Integrantes da Turma
 * Pedro Andreassa Zamai - RM: 569318
 * Thiago Maluf Hofmann - RM: 569852
-* Pedro Yoshikado Garcia - RM: 569852
+* Pedro Yoshikado Garcia - RM: 570449
 * **Curso:** Ciência da Computação - Turma 1CCPH
 
 
